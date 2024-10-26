@@ -1,0 +1,30 @@
+.binance1{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas:
+    "nv nv nv nv nv nv nv nv"
+    "cd cd mn mn mn mn gh gh"
+
+;
+
+ #Navbar{
+        grid-area: nv;
+    }
+ #Some12{
+     grid-area: cd;
+ }
+ #some23{
+     grid-area: mn;
+ }
+#Pablo1 {
+    height: auto;
+    justify-content: center;
+}
+ #Element{
+     margin-top: 80px;
+ }
+#Image2{
+    justify-content: center;
+    margin-top: 50px;
+}
+}
